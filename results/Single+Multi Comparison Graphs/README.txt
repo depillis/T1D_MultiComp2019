@@ -1,0 +1,1 @@
+The attached images are comparisons of the single and multi compartmental models overlaid on one another. The thinner lines are the multi-compartmental model, and the thicker ones are the single compartmental model. The multi compartmental model used to generate these graphs is the finalized version with the eta function

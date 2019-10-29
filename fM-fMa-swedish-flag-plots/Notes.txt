@@ -1,0 +1,40 @@
+To run: 
+Type ParamSensitivityNodAndBalbC at Matlab prompt.
+In that file, set NOD=1 to run NOD mouse case, and NOD = 0 for BalbC case.
+
+----------------------
+LdeP June 10, 2019
+
+Updating the "Swedish Flag" plot with the new "eta_vary" (eta_e) version of
+the ODE system.
+
+Using code from 
+
+~/Dropbox/Cancer_inflammation/manuscript/LaTeX-files/revision_documents/Visuals/code_for_figures
+
+
+----------------------
+LdeP October 5, 2018
+
+NOD mouse case again
+5% parameter change
+Only 4 clearance rate parameters - f1n (fM_n - NOD-basal phagocytosis for Macrophage), f2n (fMa_n - NOD-activated phagocytorsis for Macrophage), fD_n, ftD_n.
+Days 5, 10, 15 (apoptotic wave), 150, 300
+
+----------------------
+LdeP July 30, 2018
+
+Trying different time points for the Parameter Sensitivity analysis.
+From Marissa's codes, the fig_5 codes are the sensitivity analyses for the NOD mice.
+
+Look at parameter sensitivity results at three time points. 
+Look at separate time point plots
+Look at days 37, 45, 60, steady state (or see if Blerta finds some later on time points that are interesting.)
+
+NOD mouse case
+No treatment
+5% parameter change (but think about playing with this).
+Decide after what subset of parameters we want to look at.
+Send preliminary results to Blerta.
+
+----------------------
